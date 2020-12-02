@@ -5,4 +5,4 @@ import layoutComponent from "./components/layout"
 
 
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<layoutComponent />, document.getElementById("root"));
