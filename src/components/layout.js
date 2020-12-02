@@ -1,7 +1,7 @@
 import React, { Component, useState } from "react";
 import "../styles/App.css";
 
-const layoutComponent = () => {
+const Layout = () => {
   return (
     <div id="root">
       <h1> Hi! I'm layout component! </h1>
@@ -9,4 +9,4 @@ const layoutComponent = () => {
   );
 };
 
-export default layoutComponent;
+export default Layout;
